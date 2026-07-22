@@ -1,0 +1,30 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_6C409859_3EEA_3A8B_41C1_DCF4DD5ABCB3.label = 1_entrada 2do piso
+panorama_6EAEA1E0_3EEA_0DB9_4198_CE28E2BFFA71.label = 2_pasillo entrada
+panorama_6EC2AA03_3EEA_1E7F_41CC_B98F7F9BA967.label = 3_recibidor
+panorama_6EC2F237_3EEA_0E87_4157_E7E3EC4F94BA.label = 4_vestíbulo y mesas de estudio
+panorama_6EC2FBCE_3EEA_7D89_41CB_24888141E843.label = 5_salas grupales y circulación
+panorama_6EC204AD_3EEA_0B8B_4195_0243675DDA8D.label = 6_sala de estudio comité tesis
+
+## Skin
+
+### Image
+Image_AACAAA03_E29A_BA4C_41BA_593E24C06E5F.url = skin/Image_AACAAA03_E29A_BA4C_41BA_593E24C06E5F_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = Biblioteca  Trabajo Social UPRRP
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = San Juan 
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Biblioteca Trabajo Social  UPR-RP
